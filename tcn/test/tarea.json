@@ -1,0 +1,54 @@
+{
+  "../vistas/v-altatarea.php": {
+    "addTarea": {
+      "codTarea": {
+        "" : false,
+        "aa" : false,
+        "Tarea28": true,
+        "dfbnsjfnlbjsnfjbnsjkxfnblj": false
+      },
+      "nombreTarea": {
+        "": false,
+        "Nova Tarefa": true,
+        "a": false,
+        "dfbnsjfnlbjsnfjbnsjkxfnbljxfnbldkjxfnglbjdnxfglbkjdnrxgflbjkxf": false
+      },
+      "fechaEstIni": {
+        "": false,
+        "31/12/2015": true,
+        "32/12/2015": false
+      },
+      "fechaEstFin": {
+        "": false,
+        "31/12/2015": true,
+        "32/12/2015": false
+      }
+    }
+  },
+  "../vistas/v-modificartarea.php?id=15": {
+    "updateTarea": {
+      "codTarea": {
+        "" : false,
+        "aa" : false,
+        "Tarea28": true,
+        "dfbnsjfnlbjsnfjbnsjkxfnblj": false
+      },
+      "nombreTarea": {
+        "": false,
+        "Nova Tarefa": true,
+        "a": false,
+        "dfbnsjfnlbjsnfjbnsjkxfnbljxfnbldkjxfnglbjdnxfglbkjdnrxgflbjkxf": false
+      },
+      "fechaEstIni": {
+        "": false,
+        "31/12/2015": true,
+        "32/12/2015": false
+      },
+      "fechaEstFin": {
+        "": false,
+        "31/12/2015": true,
+        "32/12/2015": false
+      }
+    }
+  }
+}

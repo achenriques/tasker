@@ -1,0 +1,11 @@
+{
+  "../vistas/inc-altareunion.php": {
+    "addReunion": {
+      "fechaReunion": {
+        "": false,
+        "31/12/2015": true,
+        "32/12/2015": false
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "../vistas/v-altacalendario.php": {
+    "addCalendario": {
+      "nombreCalendario": {
+        "": false,
+        "aa": false,
+        "Mi Calendario": true,
+        "dfbnsjfnlbjsnfjbnsjkxfnbljffggaassdfghjklffgasdsfsd": false
+      }
+    }
+  },
+    "../vistas/v-modificarcalendario.php?id=1": {
+      "updateCalendario": {
+        "nombreCalendario": {
+          "": false,
+          "aa": false,
+          "Mi Calendario": true,
+          "dfbnsjfnlbjsnfjbnsjkxfnbljffggaassdfghjklfdfasdf": false
+        }
+      }
+    }
+}

@@ -1,0 +1,34 @@
+{
+  "../vistas/v-altagrupo.php": {
+    "addGrupo": {
+      "nombreGrupo": {
+        "": false,
+        "aa": false,
+        "Mi Grupo": true,
+        "dfbnsjfnlbjsnfjbnsjkxfnbljffggaassdfghjklffgasdsfsd": false
+      },
+      "descripcionGrupo": {
+        "": false,
+        "aa": false,
+        "Descripcion del Grupo": true,
+        "dfbnsjfnlbjsnfjbnsjkxfnbljffggaassdfghjklffgasdsfsdmmjkdrfjgkhlskdjkliioookkkjjjjjfffdsjkjhkoijkljjkjjkdjjkkjjlkjkjsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf": false
+      }
+    }
+  },
+  "../vistas/v-modificargrupo.php?id=2": {
+    "updateGrupo": {
+      "nombreGrupo": {
+        "": false,
+        "aa": false,
+        "Mi Grupo": true,
+        "dfbnsjfnlbjsnfjbnsjkxfnbljffggaassdfghjklffgasdsfsd": false
+      },
+      "descripcionGrupo": {
+        "": false,
+        "aa": false,
+        "Descripcion del Grupo": true,
+        "dfbnsjfnlbjsnfjbnsjkxfnbljffggaassdfghjklffgasdsfsdmmjkdrfjgkhlskdjkliioookkkjjjjjfffdsjkjhkoijkljjkjjkdjjkkjjlkjkjsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf": false
+      }
+    }
+  }
+}

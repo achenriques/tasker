@@ -1,0 +1,12 @@
+{
+  "../vistas/v-altanotificacion.php": {
+    "addNotificacion": {
+      "textoNotif": {
+        "": false,
+        "aa": false,
+        "Blah Blah Blah": true,
+        "dfbnsjfnlbjsnfjbnsjkxfnbljffggaassdfghjklffgasdsfsdmmjkdrfjgkhlskdjkliioookkkjjjjjfffdsjkjhkoijkljjkjjkdjjkkjjlkjkjsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf": false
+      }
+    }
+  }
+}

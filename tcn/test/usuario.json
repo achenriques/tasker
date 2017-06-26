@@ -1,0 +1,70 @@
+{
+  "../vistas/inc-modal-registrarusuario.php": {
+    "registrarse": {
+      "nick": {
+        "" : false,
+        "username": true,
+        "dfbnsjfnlbjsnfjb": false
+      },
+      "nombre": {
+        "": false,
+        "Mi apellido": true,
+        "dfbnsjfnlbjsnfjbnsjkxfnbljxfnbl": false
+      },
+      "email": {
+        "": false,
+        "micorreo": false,
+        "correo@gmail.com": true
+      },
+      "passwordU": {
+        "": false
+      },
+      "passwordConf": {
+        "": false
+
+      }
+
+    }
+  },
+  "../vistas/v-modificarusuario.php": {
+    "modificarUsuario": {
+
+      "nombre": {
+        "": false,
+        "Mi apellido": true,
+        "dfbnsjfnlbjsnfjbnsjkxfnbljxfnbl": false
+      },
+      "email": {
+        "": false,
+        "micorreo": false,
+        "correo@gmail.com": true
+      }
+    }
+  },
+
+  "../vistas/v-perfil.php": {
+    "modificarPass": {
+      "passwordU": {
+        "": false
+      },
+      "passwordConf": {
+        "": false
+      }
+    }
+  },
+
+  "../vistas/v-login.php": {
+    "login": {
+
+      "nick": {
+        "": false,
+        "username": true,
+        "dfbnsjfnlbjsnfjbnsjkxfnbljxfnbl": false
+      },
+      "password": {
+        "": false
+
+      }
+    }
+  }
+}

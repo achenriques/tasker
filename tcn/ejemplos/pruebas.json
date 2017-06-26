@@ -1,0 +1,39 @@
+{
+  "./ejemplos/ejemplo1.html": {
+    "crear_usuario": {
+      "dni": {
+        "59768388J" : true,
+        "66112233A": false,
+        "": false,
+        "1234A": false,
+        "1111111111111B": false
+      },
+      "nombre": {
+        "": false,
+        "Ana Garriga": true,
+        "a": false,
+        "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa": false
+      },
+      "apellidos": {
+        "": false,
+        "Alvarez Asuriaga": true,
+        "aaaa": false,
+        "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa": false
+      },
+      "email": {
+        "": false,
+        "tm@gmail.com": true,
+        "asssss": false
+      },
+      "contrasena1": {
+        "": false,
+        "123": false,
+        "1234": true
+      },
+      "contrasena1&&contrasena2":{
+        "abcd1234&&abcd123": false,
+        "abcd1234&&abcd1234": true
+      }
+    }
+  }
+}
